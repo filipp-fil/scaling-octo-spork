@@ -1,0 +1,30 @@
+body{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family:sans-serif;
+  text-align: left;
+}
+div{
+  margin:auto;
+}
+img{
+    width: 300px;
+}
+figure{
+  float: right;
+  font-style:italic;
+}
+table{
+  border: 1px black;
+}
+p{
+   left:auto
+}
+
+h1{
+    size: 32px;
+}
+h2{
+  padding: 2em;
+}
